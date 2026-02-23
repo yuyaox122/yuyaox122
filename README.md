@@ -1,15 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF724&width=435&lines=Yuyao+Xie;.+.+.)](https://git.io/typing-svg)
 
-# 💫 About Me:
-1st Year Physics BSc @ University of Warwick
+## 🔭 About Me
+I am a First Year Physics student at the **University of Warwick** with a deep interest in the intersection of **Stochastic Modeling**, **Quantitative Finance**, and **Computational Physics**. 
 
+## 🏆 Key Achievements
+* **IC Hack 2026 - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analog walkie-talkies (16 bytes/sec) using FSK encoding.
+* **SIAM M3 Challenge - Technical Computing Award (Jane Street Sponsored):** Developed bi-seasonal SARIMA and multiplicative Holt-Winters models to forecast industrial energy demand; designed a stochastic optimization algorithm for emergency resource placement.
+* **BPhO Computational Challenge - Top 5 Gold:** Simulated non-heliocentric orbits using Manim and Matplotlib; deployed a 3D gravity simulation via Vue.js/Django on AWS.
+* **Isaac Physics Diamond Rank:** Top 150 globally (450+ complex problems solved).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuyao-xie) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## 💻 Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly) |
+| **Back/Front End**| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Infrastructure**| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) |
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yuyaox122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -17,6 +28,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaox122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yuyaox122&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuyao-xie)
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yuyaox122&icon=0&color=0" alt="visitor count" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
