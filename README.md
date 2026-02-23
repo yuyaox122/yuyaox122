@@ -30,10 +30,3 @@ I am a First Year Physics student at the **University of Warwick** with a deep i
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuyao-xie)
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yuyaox122&icon=0&color=0" alt="visitor count" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
