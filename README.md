@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF724&width=435&lines=Yuyao+Xie;.+.+.)](https://git.io/typing-svg)
 
 ## 🔭 About Me
-I am a First Year Physics student at the **University of Warwick** with a deep interest in the intersection of **Stochastic Modeling**, **Quantitative Finance**, and **Computational Physics**. 
+I am a First Year Physics student at the **University of Warwick** with a deep interest in the intersection of **Stochastic Modelling**, **Quantitative Finance**, and **Computational Physics**. 
 
 ## 🏆 Key Achievements
-* **IC Hack 2026 - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analog walkie-talkies (16 bytes/sec) using FSK encoding.
-* **SIAM M3 Challenge - Technical Computing Award (Jane Street Sponsored):** Developed bi-seasonal SARIMA and multiplicative Holt-Winters models to forecast industrial energy demand; designed a stochastic optimization algorithm for emergency resource placement.
+* **IC Hack 2026 - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analogue walkie-talkies (16 bytes/sec) using FSK encoding.
+* **SIAM M3 Challenge - Technical Computing Award (Trip to Jane Street NYC + $5000 Scholarship):** Developed bi-seasonal SARIMA and multiplicative Holt-Winters models to forecast industrial energy demand; designed a stochastic optimisation algorithm for emergency resource placement.
 * **BPhO Computational Challenge - Top 5 Gold:** Simulated non-heliocentric orbits using Manim and Matplotlib; deployed a 3D gravity simulation via Vue.js/Django on AWS.
-* **Isaac Physics Diamond Rank:** Top 150 globally (450+ complex problems solved).
 
 ---
 
