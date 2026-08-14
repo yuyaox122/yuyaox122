@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF724&width=435&lines=Yuyao+Xie;.+.+.)](https://git.io/typing-svg)
 
 ## 🏆 Key Achievements
-* **Imperial Hackathon (IMC Trading Track) - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analogue walkie-talkies (16 bytes/sec) using FSK encoding.
 * **M3 Modelling Challenge - Technical Computing Award (1st/3600):** Won trip to *Jane Street* NYC + $5000 Scholarship. Developed bi-seasonal SARIMA and multiplicative Holt-Winters models to forecast industrial energy demand; designed a stochastic optimisation algorithm for emergency resource placement.
+* **Imperial Hackathon (IMC Trading Track) - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analogue walkie-talkies (16 bytes/sec) using FSK encoding.
 * **British Physics Olympiad Computational Challenge - Top 5 Nationally:** Co-authored research paper and simulated non-heliocentric orbits using Manim and Matplotlib; deployed a 3D gravity simulation via Vue.js/Django on AWS.
 
 ---
