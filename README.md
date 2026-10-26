@@ -3,6 +3,7 @@
 ## 🏆 Key Achievements
 * **M3 Modelling Challenge - Technical Computing Award (1st/3600):** Won trip to *Jane Street* NYC + $5000 Scholarship. Developed bi-seasonal SARIMA and multiplicative Holt-Winters models to forecast industrial energy demand; designed a stochastic optimisation algorithm for emergency resource placement.
 * **Imperial Hackathon (IMC Trading Track) - Best Hardware Hack:** Built a zero-connectivity PWA that transmits digital data over analogue walkie-talkies (16 bytes/sec) using FSK encoding.
+* **OxHack 2026 (HRT Track) - Runner-up, Best Use of Data for Predictions and Decision Making:** Built [wAIsted](https://waisted.pages.dev), a physics-based water-balance model of 52 sewage works around Oxford, fitted only to treated flow and never to spill records (AUC 0.96 on a held-out year). It forecasts sewage spills 7 days ahead from an ECMWF ensemble, maps E. coli every 100 m of river, and flags works spilling below their permit.
 * **British Physics Olympiad Computational Challenge - Top 5 Nationally:** Co-authored research paper and simulated non-heliocentric orbits using Manim and Matplotlib; deployed a 3D gravity simulation via Vue.js/Django on AWS.
 
 ---
